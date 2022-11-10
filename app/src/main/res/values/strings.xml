@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstGame</string>
+    <string name="result">Результат</string>
+    <string name="restart">Начать заново</string>
+    <string name="Null"></string>
+    <string name="Score">Крестики - Нолики -</string>
+
+</resources>
