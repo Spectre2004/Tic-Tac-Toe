@@ -123,7 +123,6 @@ public class MainActivity extends AppCompatActivity {
                     btnList[i][j].setEnabled(false);
                 }
             }
-//            xssxs
 
         }
         else if (btnList[1][0].getText() == "X" && btnList[1][1].getText() == "X" && btnList[1][2].getText() == "X")
